@@ -49,12 +49,4 @@ export class ProjectsComponent implements OnInit {
   onSubmit() {
     alert(JSON.stringify(this.projectForm.value));
   }
-
-
-
-
-
-
-
-
 }
